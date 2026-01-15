@@ -1,0 +1,1 @@
+{"name":"Local: 6_PrimeNumber","url":"d:\\Striver\\Basic Maths\\6_PrimeNumber.cpp","tests":[{"id":1756561255505,"input":"19","output":"1"},{"id":1756561281843,"input":"22","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Basic Maths\\6_PrimeNumber.cpp","group":"local","local":true}

@@ -6,7 +6,6 @@ very very Insanely fast compare to multiplication and division
 In 1s - 10^8 operation
    1s - 10^9 operation
 
-
 #1. Check a Number is Even or Odd
 
 Normal Approach is : 

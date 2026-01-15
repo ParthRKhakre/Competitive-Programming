@@ -1,0 +1,1 @@
+{"name":"Local: 5_Count_frequency","url":"d:\\Striver\\Hashing\\5_Count_frequency.cpp","tests":[{"id":1756757081327,"input":"6\n10 5 10 15 10 5","output":"5->2\n10->3\n15->1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Hashing\\5_Count_frequency.cpp","group":"local","local":true}

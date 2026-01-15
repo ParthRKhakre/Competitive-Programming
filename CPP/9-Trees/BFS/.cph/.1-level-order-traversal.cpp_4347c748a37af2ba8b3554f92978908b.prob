@@ -1,0 +1,1 @@
+{"name":"Local: 1-level-order-traversal","url":"d:\\C++\\CPP\\Trees\\BFS\\1-level-order-traversal.cpp","tests":[{"id":1768221123057,"input":"","output":"3 9 20 15 7 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\Trees\\BFS\\1-level-order-traversal.cpp","group":"local","local":true}

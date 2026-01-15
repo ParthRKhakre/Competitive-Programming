@@ -1,0 +1,1 @@
+{"name":"Local: 8-MoveZeroToLast","url":"d:\\C++\\CPP\\Array\\8-MoveZeroToLast.cpp","tests":[{"id":1766774200179,"input":"5\n0 1 0 3 12","output":"1 3 12 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\Array\\8-MoveZeroToLast.cpp","group":"local","local":true}

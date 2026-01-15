@@ -1,0 +1,1 @@
+{"name":"Local: BubbleSort","url":"d:\\Striver\\Sorting-I\\BubbleSort.cpp","tests":[{"id":1758022747380,"input":"5\n12 21 3 41 1","output":"1 3 12 21 41"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Sorting-I\\BubbleSort.cpp","group":"local","local":true}

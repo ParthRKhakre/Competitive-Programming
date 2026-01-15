@@ -1,0 +1,1 @@
+{"name":"Local: Selection","url":"d:\\Striver\\Sorting-I\\Selection.cpp","tests":[{"id":1758022391708,"input":"5\n21 31 1 14 3","output":"1 3 14 21 31"},{"id":1758022564862,"input":"9\n21 3 1 41 65 9 8 32 12","output":"1 3 8 9 12 21 32 41 65 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Sorting-I\\Selection.cpp","group":"local","local":true}

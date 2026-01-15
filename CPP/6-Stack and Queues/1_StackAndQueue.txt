@@ -1,0 +1,60 @@
+Theory of stack and Queue
+
+Stack is a data structure that stores certain 
+data in Last In First Out(LIFO) Mechanism
+
+Operations:
+push(x) - insert value into stack
+pop() - take out the last most inserted value from the stack
+top() - print the last inserted elelment in the stack
+size() - returns the size of the stack
+
+Example : 
+stack[]
+push(2) - stack[2]
+push(8) - stack[2,8]
+push(4) - stack[2,8,4]
+push(1) - stack[2,8,4,1]
+pop() - stack[2,8,4] removes 1 out of the stack
+top() - 4 is the top most element
+top() - 4 is the top most element
+pop() - stack[2,8] removes 4 out of the stack
+push(5) - insert 5 into stack[2,8,5]
+top() - 5 is the top most element
+size() - give the size of the stack that is 3
+
+Queue data structure that stores certain data in FIFO(
+First In First Out) Mechanism
+
+Operations:
+push(x) - put element into the queue
+pop() - remove the first inserted element
+top() - print the first most inserted element in the Queue
+size() - 
+
+push(2) - [2]
+push(1) - [2,1]
+push(3) - [2,1,3]
+push(4) - [2,1,3,4]
+pop() - [1,3,4]
+top() - 1 is the top most element
+pop() - [3,4]
+top() - 3 is the top most element
+push(7) - [3,4,7]
+top() - 3 is the top most element
+size() - 3 is size as two elements are present
+
+
+STL implementation of stack
+stack<datatype> st
+st.push(x)
+st.pop()
+st.top()
+st.size()
+
+STL implementation of queue
+queue<datatype> q
+q.push(x) - O(1)
+q.pop()   - O(1)
+q.top()   - O(1)
+q.size()  - O(1)                                             

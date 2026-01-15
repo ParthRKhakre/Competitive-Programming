@@ -1,0 +1,1 @@
+{"name":"Local: 2_CheckIfEvenOdd","url":"d:\\Striver\\Basic Maths\\BitManipulation\\2_CheckIfEvenOdd.cpp","tests":[{"id":1762670000069,"input":"9 ","output":"Odd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Basic Maths\\BitManipulation\\2_CheckIfEvenOdd.cpp","group":"local","local":true}

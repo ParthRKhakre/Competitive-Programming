@@ -1,0 +1,1 @@
+{"name":"Local: 6_CountMaxMinFrequency","url":"d:\\Striver\\Hashing\\6_CountMaxMinFrequency.cpp","tests":[{"id":1756758221716,"input":"6\n10 5 10 15 10 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Hashing\\6_CountMaxMinFrequency.cpp","group":"local","local":true}

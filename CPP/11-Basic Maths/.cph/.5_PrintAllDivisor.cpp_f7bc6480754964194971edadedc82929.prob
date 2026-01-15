@@ -1,0 +1,1 @@
+{"name":"Local: 5_PrintAllDivisor","url":"d:\\Striver\\Basic Maths\\5_PrintAllDivisor.cpp","tests":[{"id":1756557733049,"input":"4","output":"1 2 4"},{"id":1756559562142,"input":"36","output":"1 2 3 4 6 9 12 18 36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver\\Basic Maths\\5_PrintAllDivisor.cpp","group":"local","local":true}
