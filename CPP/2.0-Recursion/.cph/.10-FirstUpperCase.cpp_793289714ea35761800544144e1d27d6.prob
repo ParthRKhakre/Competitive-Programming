@@ -1,0 +1,1 @@
+{"name":"Local: 10-FirstUpperCase","url":"d:\\C++\\CPP\\2.0-Recursion\\10-FirstUpperCase.cpp","tests":[{"id":1768659201334,"input":"Parrot","output":"0"},{"id":1768659271781,"input":"jokerJokes","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\2.0-Recursion\\10-FirstUpperCase.cpp","group":"local","local":true}
