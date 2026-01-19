@@ -1,0 +1,1 @@
+{"name":"Local: BitwiseMerger","url":"d:\\C++\\Lab Questions\\bitwisemerr\\BitwiseMerger.cpp","tests":[{"id":1768794258593,"input":"1\n4\n1 3 2 4\n","output":"6"},{"id":1768794265356,"input":"1\n5\n7 1 3 2 4\n","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Lab Questions\\bitwisemerr\\BitwiseMerger.cpp","group":"local","local":true}
