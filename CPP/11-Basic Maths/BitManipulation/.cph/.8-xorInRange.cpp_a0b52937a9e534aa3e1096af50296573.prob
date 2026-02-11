@@ -1,0 +1,1 @@
+{"name":"Local: 8-xorInRange","url":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\8-xorInRange.cpp","tests":[{"id":1770104481489,"input":"3 5","output":"2"},{"id":1770104498368,"input":"1 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\8-xorInRange.cpp","group":"local","local":true}

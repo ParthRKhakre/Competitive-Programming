@@ -1,0 +1,1 @@
+{"name":"Local: 3-PrintOneSubsequence","url":"d:\\C++\\CPP\\2.0-Recursion\\3-PrintOneSubsequence.cpp","tests":[{"id":1769860959822,"input":"3 3\n1 2 1\n","output":"1 2"},{"id":1769861220938,"input":"3 2\n1 2 1","output":"1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\2.0-Recursion\\3-PrintOneSubsequence.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1_ConvertT2B","url":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\1_ConvertT2B.cpp","tests":[{"id":1769945500101,"input":"4","output":"1 0 0"},{"id":1769945507525,"input":"7","output":"1 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\1_ConvertT2B.cpp","group":"local","local":true}

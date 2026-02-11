@@ -1,0 +1,1 @@
+{"name":"Local: 3_PowerOf2","url":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\3_PowerOf2.cpp","tests":[{"id":1770052412316,"input":"5","output":"False"},{"id":1770052501410,"input":"16","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\3_PowerOf2.cpp","group":"local","local":true}

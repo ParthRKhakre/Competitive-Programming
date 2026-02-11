@@ -26,7 +26,7 @@ void sumKsubsequence(vector<int>&ds,int arr[],int n,int idx,int K){
  
 int main(){
 
-    int arr[] = {3,1,2,1,2};
+    int arr[] = {1,2,1};
     int n = 3, idx = 0,K;
     cin>>K;
 

@@ -1,0 +1,1 @@
+{"name":"Local: Practice","url":"d:\\C++\\CPP\\2.0-Recursion\\Subsequence Pattern\\Practice.cpp","tests":[{"id":1768986169082,"input":"","output":"1 3 2 \n1 3 \n1 2 \n1 \n3 2 \n3 \n2 \n{}"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\2.0-Recursion\\Subsequence Pattern\\Practice.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 6-CheckOdd","url":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\6-CheckOdd.cpp","tests":[{"id":1770097687711,"input":"7 ","output":"1"},{"id":1770097689764,"input":"8","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\6-CheckOdd.cpp","group":"local","local":true}

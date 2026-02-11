@@ -14,7 +14,17 @@ vector<int> convertToBinary(int n){
     return BinaryVector;
 }
 
-
+int convertToDecimal(vector<int> v){
+    reverse(v.begin(),v.end());
+    int sum = 0,powOfTwo = 1;
+    for(int i = 0;i<v.size();i++){
+        if(v[i] != 0){
+            sum += powOfTwo * v[i];
+        }
+        powOfTwo *= 2;
+    }
+    return sum;
+}
 
 int main(){
 
@@ -22,8 +32,6 @@ int main(){
     cin>>n;
 
     vector<int> binary = convertToBinary(n);
-
-    for(auto it:binary){
-        cout<<it<<" ";
-    }
+    int decimal = convertToDecimal(binary);
+    cout<<decimal;
 }

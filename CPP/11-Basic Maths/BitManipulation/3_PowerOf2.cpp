@@ -7,14 +7,10 @@ bool isPowerOfTwo(int n) {
 }
 
 int main(){
-
     int n;
     cin>>n;
     int x = isPowerOfTwo(n);
-
-    if(x) cout<<"True";
-    else cout<<"False";    
-    return 0;
+    x ? cout<<"True" :cout<<"False";    
 }
 
 

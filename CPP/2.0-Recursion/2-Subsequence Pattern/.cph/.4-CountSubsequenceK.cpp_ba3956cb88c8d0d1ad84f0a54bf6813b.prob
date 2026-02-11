@@ -1,0 +1,1 @@
+{"name":"Local: 4-CountSubsequenceK","url":"d:\\C++\\CPP\\2.0-Recursion\\2-Subsequence Pattern\\4-CountSubsequenceK.cpp","tests":[{"id":1769861962075,"input":"3 2\n1 2 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\2.0-Recursion\\2-Subsequence Pattern\\4-CountSubsequenceK.cpp","group":"local","local":true}

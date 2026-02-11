@@ -1,0 +1,1 @@
+{"name":"Local: 4-CheckiIsUnset","url":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\4-CheckiIsUnset.cpp","tests":[{"id":1770099478590,"input":"10","output":"11"},{"id":1770099494483,"input":"7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\11-Basic Maths\\BitManipulation\\4-CheckiIsUnset.cpp","group":"local","local":true}
