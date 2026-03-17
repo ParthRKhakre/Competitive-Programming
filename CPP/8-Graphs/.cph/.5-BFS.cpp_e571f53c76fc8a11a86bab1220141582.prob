@@ -1,0 +1,1 @@
+{"name":"Local: 5-BFS","url":"d:\\C++\\CPP\\8-Graphs\\5-BFS.cpp","tests":[{"id":1773210718432,"input":"5 4\n1 2\n1 3\n2 4\n3 5","output":"1 2 3 4 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\8-Graphs\\5-BFS.cpp","group":"local","local":true}
