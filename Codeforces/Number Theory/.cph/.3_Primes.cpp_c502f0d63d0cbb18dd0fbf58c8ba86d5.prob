@@ -1,1 +1,0 @@
-{"name":"Local: 3_Primes","url":"d:\\C++\\Codeforces\\Number Theory\\3_Primes.cpp","tests":[{"id":1766838021372,"input":"5","output":"2 3"},{"id":1766838028019,"input":"11","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Codeforces\\Number Theory\\3_Primes.cpp","group":"local","local":true}
