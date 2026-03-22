@@ -1,0 +1,1 @@
+{"name":"Local: 5-Floor_Ceil","url":"d:\\C++\\CPP\\5.1-BinarySearch\\5-Floor_Ceil.cpp","tests":[{"id":1774161082226,"input":"5 25\n10 20 30 40 50","output":"20 30"},{"id":1774161634014,"input":"5 30\n10 20 30 40 50","output":"30 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\5.1-BinarySearch\\5-Floor_Ceil.cpp","group":"local","local":true}

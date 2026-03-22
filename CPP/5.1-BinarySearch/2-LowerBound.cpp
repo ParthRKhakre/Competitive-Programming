@@ -1,6 +1,14 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+int linearLowerBound(vector<int>&arr,int n,int target){
+    for(int i = 0;i<n;i++){
+        if(arr[i]>=target)
+            return i;
+    }
+    return n;
+}
+
 int lowerbound(vector<int> &arr,int n,int target){
     int low = 0,high = n-1,lb = n;
     while(low<=high){
@@ -29,7 +37,7 @@ int main(){
     for(int i = 0;i < n;i++)
         cin>>arr[i];
  
-    int lb = STL(arr,target);
+    int lb = linearLowerBound(arr,n,target);
     cout<<lb;    
 
 }
