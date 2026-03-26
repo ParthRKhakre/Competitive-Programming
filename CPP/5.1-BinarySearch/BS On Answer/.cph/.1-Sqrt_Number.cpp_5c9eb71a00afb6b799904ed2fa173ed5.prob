@@ -1,0 +1,1 @@
+{"name":"Local: 1-Sqrt_Number","url":"d:\\C++\\CPP\\5.1-BinarySearch\\BS On Answer\\1-Sqrt_Number.cpp","tests":[{"id":1774499289504,"input":"25","output":"5"},{"id":1774499328239,"input":"19","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\5.1-BinarySearch\\BS On Answer\\1-Sqrt_Number.cpp","group":"local","local":true}
