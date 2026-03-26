@@ -1,0 +1,1 @@
+{"name":"Local: 2-NthSqrt","url":"d:\\C++\\CPP\\5.1-BinarySearch\\BS On Answer\\2-NthSqrt.cpp","tests":[{"id":1774514287915,"input":"3 27","output":"3"},{"id":1774514305649,"input":"4 69","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\5.1-BinarySearch\\BS On Answer\\2-NthSqrt.cpp","group":"local","local":true}

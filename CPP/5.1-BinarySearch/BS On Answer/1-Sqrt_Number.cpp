@@ -24,17 +24,10 @@ int sqrt_bs(int n){
     return val;
 }
 
-// 1 2 3 4 5 6 7 8 
-// 1+8 / 2 = 4
-
-
-
-
 int main(){
 
     int n;
     cin >> n;
     
     cout << sqrt_bs(n);
-
 }
