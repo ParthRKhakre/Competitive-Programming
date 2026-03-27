@@ -26,6 +26,20 @@ int koko(vector<int>& piles, int h) {
     }
 }
 
+int koko_binary(vector<int>& piles,int h){
+    int low = 1,high = maximumElement(piles),ans = 0;
+
+    while(low <= high){
+        int mid = (low + high)/2;
+        int hours = totalHours(piles,mid);
+        if(hours <= h){
+            ans = mid;
+            high = mid - 1;
+        }else low = mid + 1;
+    }
+    return ans;
+}
+
 int main(){
 
     int n,h;
@@ -36,6 +50,6 @@ int main(){
     for(int i = 0;i < n;i++)
         cin>>num[i];
        
-    cout<< koko(num,h);    
+    cout<< koko_binary(num,h);    
 
 }
