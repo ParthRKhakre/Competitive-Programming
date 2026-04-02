@@ -1,0 +1,1 @@
+{"name":"Local: 4-MinimumDaysToMakeBouquets","url":"d:\\C++\\CPP\\13-BinarySearch\\BS On Answer\\4-MinimumDaysToMakeBouquets.cpp","tests":[{"id":1775128336229,"input":"7 2 3\n7 7 7 7 12 7 7","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\13-BinarySearch\\BS On Answer\\4-MinimumDaysToMakeBouquets.cpp","group":"local","local":true}
