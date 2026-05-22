@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
                                                              /*
-    Arithematic Operator 
+    1.Arithematic Operator 
     It uses BODMAS Rules
     + (Addition)
     - (Subtraction)
@@ -39,8 +39,31 @@ int main(){
  long long
  float
  double
- long double  
-                                                                                */
+ long double
+ 
+ 2.Unary Operator are the operator that work on one operand.
+ ++ , -- , += , -= , *= , /=
 
+ Increment and Decrement Operator
+ Both have pre and post operations
+ 
+ In Pre-Operator
+ First increments the value,Then uses it 
+
+ In Post-Operator
+ First uses the value ,Then increments it
+
+ 3.Relational Operator
+ < , > , <= , >= , == , != 
+
+ 4.Assignment Operator (=)
+
+ 5.Logical Operator - && , || , !
+
+ Conditional 
+ if
+ if-else
+ else-if
+ switch                                                                                */
 
 }
