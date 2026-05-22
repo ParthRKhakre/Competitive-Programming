@@ -2,6 +2,15 @@
 using namespace std;
 
 int main(){                                                                      /*
+
+    1.Why Should we prefer C++ For CP
+    Efficieny and speed 
+    Most Popular Language for CP 
+    In built Data Structure and Algorithms(STL)
+
+    2.Why C++ is FAST
+    Its a Compiled Langauge and close to HARDWARE.
+
     Constant in C++
      1. Integer Constants : e.g. 4,99,-2
      2. Decimal Constants : 3.14, 0.3232342
@@ -80,10 +89,5 @@ int main(){                                                                     
 
     string comment;
     getline(cin,comment);
-    cout << comment;
-
-
-
-
-       
+    cout << comment;       
 }
