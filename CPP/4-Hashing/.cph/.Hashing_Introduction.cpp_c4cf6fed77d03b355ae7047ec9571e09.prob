@@ -1,0 +1,1 @@
+{"name":"Local: Hashing_Introduction","url":"d:\\C++\\CPP\\4-Hashing\\Hashing_Introduction.cpp","tests":[{"id":1779878494776,"input":"7\n6 5 6 4 4 5 6\n5\n6\n5\n1\n4\n3","output":"3\n2\n0\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\4-Hashing\\Hashing_Introduction.cpp","group":"local","local":true}
