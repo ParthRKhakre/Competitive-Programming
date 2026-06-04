@@ -1,0 +1,1 @@
+{"name":"Local: 6-First_Last","url":"d:\\C++\\CPP\\13-BinarySearch\\BS\\6-First_Last.cpp","tests":[{"id":1780576159412,"input":"6 8\n5 7 7 8 8 10","output":"3 4"},{"id":1780576168107,"input":"7 2\n1 2 2 2 3 4 5","output":"1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\13-BinarySearch\\BS\\6-First_Last.cpp","group":"local","local":true}
