@@ -1,0 +1,1 @@
+{"name":"Local: 2-FrogJump","url":"d:\\C++\\CPP\\12 - DP\\2-FrogJump.cpp","tests":[{"id":1780920416024,"input":"6\n30 10 60 10 60 50","output":"40"},{"id":1780920978341,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CPP\\12 - DP\\2-FrogJump.cpp","group":"local","local":true}
