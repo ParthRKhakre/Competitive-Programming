@@ -29,5 +29,5 @@ int main(){
     for(int i = 0;i < n;i++)
         cin>>arr[i];
 
-    cout<<binarySearch(arr,target);
+    cout<<BinarySearch(arr,n,target);
 }
