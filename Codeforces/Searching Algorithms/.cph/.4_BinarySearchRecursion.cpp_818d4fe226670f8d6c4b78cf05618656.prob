@@ -1,1 +1,0 @@
-{"name":"Local: 4_BinarySearchRecursion","url":"d:\\Amit Khurana Sir\\Searching Algorithms\\4_BinarySearchRecursion.cpp","tests":[{"id":1757281736758,"input":"5\n12 14 16 19 20\n16\n","output":"index: 2 is 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Amit Khurana Sir\\Searching Algorithms\\4_BinarySearchRecursion.cpp","group":"local","local":true}
