@@ -20,8 +20,7 @@ We need to find the Maximum sum of all subarrays of size k.
 #include <bits/stdc++.h>
 using namespace std;
 
-void ConstantWindow(vector<int> &arr, int k)
-{
+void ConstantWindow(vector<int> &arr, int k){
 
     int l = 0, r = k - 1, n = arr.size();
     int maxSum = 0, sum = 0;
